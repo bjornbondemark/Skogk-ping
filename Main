@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skogköping - En plats nära naturen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            background-color: #333;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Välkommen till Skogköping</h1>
+        <p>En plats nära naturen och framtiden</p>
+    </header>
+
+    <nav>
+        <a href="#">Hem</a>
+        <a href="#">Om Skogköping</a>
+        <a href="#">Kontakt</a>
+    </nav>
+
+    <section>
+        <h2>Om Skogköping</h2>
+        <p>Skogköping är en idyllisk stad omgiven av täta skogar och grönskande landskap. Staden har en lång historia av att leva i harmoni med naturen och erbjuder både moderna bekvämligheter och en avkopplande atmosfär. Med sina pittoreska gator, mysiga caféer och vänliga invånare är Skogköping en perfekt plats för både boende och besökare.</p>
+
+        <h3>Historik</h3>
+        <p>Grundad på 1600-talet, har Skogköping varit en central handelsplats för skogsbruk och jordbruk. Genom åren har staden utvecklats till en teknologiskt avancerad stad, samtidigt som man bevarat sin kärlek till naturen och det lokala hantverket.</p>
+
+        <h3>Sevärdheter</h3>
+        <ul>
+            <li><strong>Skogsparken:</strong> En stor park med vandringsleder, picknickområden och ett naturreservat.</li>
+            <li><strong>Gamla stan:</strong> Bevarade byggnader från 1700-talet och charmiga butiker.</li>
+            <li><strong>Skogköpings museum:</strong> Lär dig mer om stadens historia och dess utveckling genom århundradena.</li>
+        </ul>
+
+        <h3>Framtiden</h3>
+        <p>Skogköping satsar på hållbar utveckling och innovation. Med fokus på förnybar energi och miljövänliga lösningar, är staden en föregångare inom grön teknologi i Sverige.</p>
+    </section>
+
+    <footer>
+        <p>© 2024 Skogköping Stad - Alla rättigheter förbehållna</p>
+    </footer>
+</body>
+</html>
